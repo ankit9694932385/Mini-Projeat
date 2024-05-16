@@ -76,7 +76,7 @@
     position: absolute;
     left: 25%;
     color: white;
-    opacity: 0.6;
+    opacity:0.6;
     bottom: 50px;
 }
 
@@ -103,6 +103,11 @@
 
 .btn_one i:hover{
     font-size: 35px;
+}
+
+#fac{
+    color: white;
+    opacity: 1;
 }
 
 
